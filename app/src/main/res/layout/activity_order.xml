@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_order"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/Background"
+    tools:context="huongdan.hungnguyenco.hungnguyenvn.gridviewdemo.Order">
+    <LinearLayout
+        android:id="@+id/cakeTitle"
+        android:layout_width="match_parent"
+        android:paddingTop="10dp"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <ImageButton
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="15dp"
+            android:background="@color/Background"
+            android:id="@+id/icBack"
+            android:layout_gravity="center_vertical"
+            android:src="@drawable/ic_action_previous_item"
+            />
+        <TextView
+            android:id="@+id/cakeNameO"
+            android:layout_width="0dp"
+            android:layout_weight="8"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Chocolate Muffin"
+            android:textColor="@color/Name"
+            android:textSize="25sp" />
+        <ImageButton
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="30dp"
+            android:background="@color/Background"
+            android:id="@+id/icFav"
+            android:tint="#ff0000"
+            android:layout_gravity="center_vertical"
+            android:src="@drawable/ic_action_favorite"
+            />
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/cakeTitle"
+        android:layout_marginTop="20dp"
+        android:id="@+id/cakePhotoO"
+        android:src="@drawable/chocolate_muffin"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/cakeDes"
+        android:layout_below="@+id/cakePhotoO"
+        android:textSize="15sp"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+        android:layout_marginTop="10dp"
+        android:text="Our muffin unites rich, desen chocolate with a gooeu caramel center for bliss in every bite."/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:layout_marginTop="10dp"
+        android:id="@+id/layoutPrice"
+        android:layout_above="@+id/btnOrder"
+        android:orientation="horizontal">
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:background="@drawable/border">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="20dp"
+                android:id="@+id/quantity"
+                android:text="Quantity"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_below="@+id/quantity"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="20dp">
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:text="2"
+                    android:layout_marginLeft="70dp"
+                    android:gravity="center_horizontal"
+                    android:layout_height="wrap_content" />
+                <ImageView
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="17dp"
+                    android:layout_marginRight="70dp"
+                    android:src="@drawable/ic_action_expand"/>
+            </LinearLayout>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:background="@drawable/border">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="20dp"
+                android:id="@+id/total"
+                android:text="Total"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/total"
+                android:text="$20"
+                android:textColor="@color/Price"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="20dp"
+                android:layout_centerHorizontal="true"/>
+
+        </RelativeLayout>
+    </LinearLayout>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Place The Order"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        android:id="@+id/btnOrder"
+        android:layout_above="@+id/btnFav"
+        android:background="@color/Price"
+        android:textColor="@color/Background"
+        android:layout_marginTop="10dp"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Add to favorites"
+        android:id="@+id/btnFav"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="10dp"
+        android:textColor="@color/Kind"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/border"/>
+</RelativeLayout>

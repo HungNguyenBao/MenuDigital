@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="340px"
+    android:layout_height="450px"
+    android:background="@drawable/border">
+
+    <TextView
+        android:id="@+id/cakeName"
+        android:layout_width="273px"
+        android:layout_height="43px"
+        android:layout_centerHorizontal="true"
+        android:text="Chocolate Muffin"
+        android:layout_marginTop="20px"
+        android:textColor="#666666"
+        android:textAlignment="center"
+        android:textSize="32px" />
+    <TextView
+        android:id="@+id/cakeKind"
+        android:layout_width="217px"
+        android:layout_height="33px"
+        android:textAlignment="center"
+        android:layout_centerHorizontal="true"
+        android:textColor="#919191"
+        android:text="Breakfast, Munchies"
+        android:layout_marginTop="65px"
+        android:textSize="24px" />
+    <ImageView
+        android:layout_width="207px"
+        android:layout_height="236px"
+        android:id="@+id/cakePhoto"
+        android:layout_marginTop="119px"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="38px"
+        android:id="@+id/cakeMoney"
+        android:layout_toLeftOf="@+id/cakePrice"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:textSize="28px"
+        android:layout_marginBottom="20px"
+        android:text="$"
+        android:textColor="#0D9F67"
+        android:gravity="center"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="38px"
+        android:id="@+id/cakePrice"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:textSize="28px"
+        android:layout_marginBottom="20px"
+        android:text="20"
+        android:textColor="#0D9F67"
+        android:gravity="center"/>
+
+
+</RelativeLayout>

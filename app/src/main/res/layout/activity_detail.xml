@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_detail"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/Background"
+    tools:context="huongdan.hungnguyenco.hungnguyenvn.gridviewdemo.Detail">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:textSize="38sp"
+        android:textColor="#666666"
+        android:id="@+id/cakeNameD"
+        android:layout_marginTop="20dp"
+        android:text="Chocolate Muffin"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="65dp"
+        android:id="@+id/cakeKindD"
+        android:text="breakfast"
+        android:textSize="24sp"
+        android:textColor="#919191"
+        android:layout_centerHorizontal="true"/>
+    
+    <ImageView
+        android:layout_width="207dp"
+        android:layout_height="236dp"
+        android:id="@+id/cakePhotoD"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="119dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:id="@+id/cakeDesD"
+        android:layout_centerHorizontal="true"
+        android:text="test test test test test"
+        android:textSize="15sp"
+        android:layout_marginBottom="120dp"
+        android:layout_alignParentBottom="true"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:id="@+id/cakePriceD"
+        android:layout_marginBottom="30dp"
+        android:textSize="50dp"
+        android:text="$2.25"
+        android:textColor="#0D9F67"
+        android:layout_centerHorizontal="true"/>
+</RelativeLayout>

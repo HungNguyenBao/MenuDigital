@@ -1,0 +1,20 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="layout.Menu">
+
+    <GridView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="45px"
+        android:id="@+id/menuCake"
+        android:numColumns="2"
+        android:columnWidth="100px"
+        android:stretchMode="columnWidth"
+        android:horizontalSpacing="20px"
+        android:verticalSpacing="20px"
+        android:clipChildren="true"
+        ></GridView>
+
+</FrameLayout>

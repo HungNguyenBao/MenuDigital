@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "841174904329",
+    "firebase_url": "https://bhnu-e0ffb.firebaseio.com",
+    "project_id": "bhnu-e0ffb",
+    "storage_bucket": "bhnu-e0ffb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841174904329:android:9a1c735a2fad165d",
+        "android_client_info": {
+          "package_name": "huongdan.hungnguyenco.hungnguyenvn.gridviewdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841174904329-pgk2bkju1rh1pevdg07miu24eskoru6m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr-uOAo8p_12FYrCDDFZHG-DHEBHXh8o8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841174904329-pgk2bkju1rh1pevdg07miu24eskoru6m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hung\Desktop\VietNamAndroid\ud851-Sunshine-student\GridViewDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\Hung\Desktop\VietNamAndroid\ud851-Sunshine-student\GridViewDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_d9e7d8dcee22385f5f881cf15d2c767a6eccd7a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hung\Desktop\VietNamAndroid\ud851-Sunshine-student\GridViewDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\Hung\Desktop\VietNamAndroid\ud851-Sunshine-student\GridViewDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_640b740e7f0be1c1413da70a5f9c96c2e5f66cca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hung\Desktop\VietNamAndroid\ud851-Sunshine-student\GridViewDemo\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="C:\Users\Hung\Desktop\VietNamAndroid\ud851-Sunshine-student\GridViewDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.1.1_e8b7efef4a9f9ec8d7dbb4c8b49ce2a0265907d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hung\Desktop\VietNamAndroid\ud851-Sunshine-student\GridViewDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\Hung\Desktop\VietNamAndroid\ud851-Sunshine-student\GridViewDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_873c18d96130b9a7c607e9ec7b4413b8230a5e7e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hung\Desktop\VietNamAndroid\ud851-Sunshine-student\GridViewDemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\Hung\Desktop\VietNamAndroid\ud851-Sunshine-student\GridViewDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_a43a7306aed728082ca68863ab22791ede4fbf25\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hung\Desktop\VietNamAndroid\ud851-Sunshine-student\GridViewDemo\app\build\intermediates\exploded-aar\com.firebaseui\firebase-ui-storage\0.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3c433e48557e476290f45fb6cb568d1a103c9978">
+        <dex dex="C:\Users\Hung\Desktop\VietNamAndroid\ud851-Sunshine-student\GridViewDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.firebaseui-firebase-ui-storage-0.6.0_916301dff90d5160db77d367074f09770782ff35\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hung\Desktop\VietNamAndroid\ud851-Sunshine-student\GridViewDemo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\Hung\Desktop\VietNamAndroid\ud851-Sunshine-student\GridViewDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_51f726680822a304178ac14e1199edea7a924346\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hung\Desktop\VietNamAndroid\ud851-Sunshine-student\GridViewDemo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="C:\Users\Hung\Desktop\VietNamAndroid\ud851-Sunshine-student\GridViewDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.0.0_00cfaac0dd36ec2aca5024d4ee5488984af2b14c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hung\Desktop\VietNamAndroid\ud851-Sunshine-student\GridViewDemo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\Hung\Desktop\VietNamAndroid\ud851-Sunshine-student\GridViewDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_ef3b26f5e2b2f5263391538df59f7c11a786b52a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hung\Desktop\VietNamAndroid\ud851-Sunshine-student\GridViewDemo\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\Hung\Desktop\VietNamAndroid\ud851-Sunshine-student\GridViewDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.1_2cde755f9b88928d4c8142148244034bb817007a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hung\Desktop\VietNamAndroid\ud851-Sunshine-student\GridViewDemo\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="C:\Users\Hung\Desktop\VietNamAndroid\ud851-Sunshine-student\GridViewDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.1.1_005cb05dbf24397f63b021992b7725435dedb86a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hung\Desktop\VietNamAndroid\ud851-Sunshine-student\GridViewDemo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\Hung\Desktop\VietNamAndroid\ud851-Sunshine-student\GridViewDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_9324ff2b16e6e5a00d47ef70ca2ddc9159cbdac0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hung\Desktop\VietNamAndroid\ud851-Sunshine-student\GridViewDemo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\Users\Hung\Desktop\VietNamAndroid\ud851-Sunshine-student\GridViewDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.0.1_eff6033a492bd366962aa676bd64aab6d4d5f2d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hung\Desktop\VietNamAndroid\ud851-Sunshine-student\GridViewDemo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\Hung\Desktop\VietNamAndroid\ud851-Sunshine-student\GridViewDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_73dffc4cf9b6fd76c3113ca6367edfb2aa4e93a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hung\Desktop\VietNamAndroid\ud851-Sunshine-student\GridViewDemo\app\build\intermediates\exploded-aar\com.android.support\design\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="C:\Users\Hung\Desktop\VietNamAndroid\ud851-Sunshine-student\GridViewDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.1.1_cffe05efd23d3d57bb2d77db33ea67a4a4464c0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hung\Desktop\VietNamAndroid\ud851-Sunshine-student\GridViewDemo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="C:\Users\Hung\Desktop\VietNamAndroid\ud851-Sunshine-student\GridViewDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-10.0.1_1a5886b3685a03c49beef25020dfb9942c6d141d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hung\Desktop\VietNamAndroid\ud851-Sunshine-student\GridViewDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f3d8db3c32eaa17022ca8a5ef8844cb1f66e3f43">
+        <dex dex="C:\Users\Hung\Desktop\VietNamAndroid\ud851-Sunshine-student\GridViewDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ce05d79614b167180af1a285d4c4e13462ae60e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hung\Desktop\VietNamAndroid\ud851-Sunshine-student\GridViewDemo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="C:\Users\Hung\Desktop\VietNamAndroid\ud851-Sunshine-student\GridViewDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.0.0_cfe80cd6f5387615d87b3f7167ebbff4c200ceab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hung\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\Hung\Desktop\VietNamAndroid\ud851-Sunshine-student\GridViewDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_d6bd4a805cd6f98ca5ef308cd3dcfc241c321a7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hung\Desktop\VietNamAndroid\ud851-Sunshine-student\GridViewDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Hung\Desktop\VietNamAndroid\ud851-Sunshine-student\GridViewDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.1_3476ba8dbdb1b6f2b366c6f6e8d1a696d9a592a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hung\Desktop\VietNamAndroid\ud851-Sunshine-student\GridViewDemo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="C:\Users\Hung\Desktop\VietNamAndroid\ud851-Sunshine-student\GridViewDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.0.0_ac1da7e99ca6d9f8dac207597bce4ea10b912af5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hung\Desktop\VietNamAndroid\ud851-Sunshine-student\GridViewDemo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="C:\Users\Hung\Desktop\VietNamAndroid\ud851-Sunshine-student\GridViewDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-10.0.1_242c3bb4fdc8c4c38a5180a2195e2efd60a67b45\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hung\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\Hung\Desktop\VietNamAndroid\ud851-Sunshine-student\GridViewDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_31e236dc7fe1c3e30dae45ad5d62d1a4bc772419\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hung\Desktop\VietNamAndroid\ud851-Sunshine-student\GridViewDemo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Users\Hung\Desktop\VietNamAndroid\ud851-Sunshine-student\GridViewDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.0.1_692d2cba15226cf3368157882b87575d131eec2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hung\Desktop\VietNamAndroid\ud851-Sunshine-student\GridViewDemo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\Hung\Desktop\VietNamAndroid\ud851-Sunshine-student\GridViewDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.1_481031196e870fbf72861beaaec0dfb607b79c69\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hung\Desktop\VietNamAndroid\ud851-Sunshine-student\GridViewDemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\Hung\Desktop\VietNamAndroid\ud851-Sunshine-student\GridViewDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_7c6604c2b0bd0ca0188fad6e2fa2f2bc9a396e82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hung\Desktop\VietNamAndroid\ud851-Sunshine-student\GridViewDemo\app\build\intermediates\exploded-aar\com.android.support\palette-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51518e8e8f97c314a243d9def0ded91d385b6a1e">
+        <dex dex="C:\Users\Hung\Desktop\VietNamAndroid\ud851-Sunshine-student\GridViewDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-23.4.0_0d2da543ecabcd09328eeafb36dafa37c3fb5584\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hung\Desktop\VietNamAndroid\ud851-Sunshine-student\GridViewDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5d4b607a0831b6ea7e87ece2321f8de3e0694ab4">
+        <dex dex="C:\Users\Hung\Desktop\VietNamAndroid\ud851-Sunshine-student\GridViewDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_377e26ce527ea0bdf32e07b6c1cc5300a871fd97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hung\Desktop\VietNamAndroid\ud851-Sunshine-student\GridViewDemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="C:\Users\Hung\Desktop\VietNamAndroid\ud851-Sunshine-student\GridViewDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.0.0_9d0467f356291e365b64596133fd881b1f8ff5c4\classes.dex" />
+    </item>
+
+</items>
